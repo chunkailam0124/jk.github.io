@@ -136,10 +136,10 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 ---
 
 # 🏅 Honors & Awards
-- **Kaggle – NeurIPS Open Polymer Prediction (2025)** · 🥉Bronze Medal (Top 5.2%)  
-- **Kaggle – Locating Bacterial Flagellar Motors (2025)** · 🥉Bronze Medal (Top 8%)  
+- **Kaggle – NeurIPS Open Polymer Prediction (2025)** · 🥉Bronze Medal **(Top 5.2%)**  
+- **Kaggle – Locating Bacterial Flagellar Motors (2025)** · 🥉Bronze Medal **(Top 8%)**
 - **Yuanguang Cup – GBA Computer Design Competition (2025)** · 🥉Provincial 3rd Prize  
-- **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · 🥉Bronze Medal (Top 10%)
+- **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · 🥉Bronze Medal **(Top 10%)**
 - **CUMCM (2023)** · 🥉Provincial 3rd Prize  
 
 ---
