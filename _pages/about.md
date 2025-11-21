@@ -24,13 +24,24 @@ gravity-inspired clustering & classification algorithms.
 
 ---
 
-# 🏫 Education
+<h2 id="education">🏫 Education</h2>
 
-### <img src="{{ site.baseurl }}/images/hkbu.png" width="70" style="vertical-align:middle; margin-right:10px;">
-**Hong Kong Baptist University (HKBU)**  
-**Bachelor of Science (Hons) in Data Science, studies at Beijing Normal – Hong Kong Baptist University (BNBU)**  
-**2022.09 – 2026.06 (Expected)** · Zhuhai, China
-- **GPA:** 3.42 / 4.0 (First-class domain)  
+<dl>
+
+  <dt>
+    <img src="{{ site.baseurl }}/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
+  </dt>
+
+  <dt> <strong>Hong Kong Baptist University (HKBU)</strong></dt>
+  <dd> Bachelor of Science (Hons) in Data Science</dd>
+  <dd> Studies at Beijing Normal – Hong Kong Baptist University (BNBU)</dd>
+  <dd> 2022.09 – 2026.06 (Expected) · Zhuhai, China</dd>
+  <dd> GPA: 3.42 / 4.0 (First-class domain)</dd>
+
+</dl>
+
+<br><br><br>
+
 
 ---
 
