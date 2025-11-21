@@ -146,7 +146,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 
 # 💻 Course Projects
 - **"U-Dream" Study Abroad Information Query Platform**  
-  *Selected for BNBU CS–DS Poster Conference 2024*
+  *Selected for BNBU(UIC) CS–DS Poster Conference 2024*
   - COMP3013 Database Management Systems, BNBU
   - Designed DBMS-based query platform  
   - Built simulation datasets & performed data analysis with Python
