@@ -26,7 +26,7 @@ gravity-inspired clustering & classification algorithms.
 
 # 🏫 Education
 
-### <img src="/images/hkbu.png" width="70" style="vertical-align:middle; margin-right:10px;">  
+### <img src="{{ site.baseurl }}/images/hkbu.png" width="70" style="vertical-align:middle; margin-right:10px;">
 **Hong Kong Baptist University (HKBU)**  
 **Bachelor of Science (Hons) in Data Science, studies at Beijing Normal – Hong Kong Baptist University (BNBU)**  
 **2022.09 – 2026.06 (Expected)** · Zhuhai, China
