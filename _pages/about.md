@@ -75,7 +75,7 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 - Di Li†, Junkai Lin†, Siqi Hou†, Yanyan Ji\* (2025).  
   *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
   <span style="background:#0d47a1; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Published</span>
-  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Mechanical Engineering Conf. Index Class - A</span>  
+  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Conf. Index Mechanical Engineering Class-A</span>  
   **ICIRA 2025**, Japan.
 
 
