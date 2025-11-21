@@ -19,8 +19,7 @@ My research interests lie in:
 - Geo-Infomatics
 - Scientific Machine Learning & Diffusion Models  
 
-I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently leading projects (graduation thesis) on  
-gravity-inspired clustering & classification algorithms.  
+I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently leading projects (graduation thesis) on  **gravity-inspired clustering & classification algorithms**.  
 
 ---
 
