@@ -112,7 +112,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 - **Junkai Lin†**, Jiarui Cao†, A. M. Elsawah\* (2025).  
   *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">中科院 2 区</span>
+  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS Q2(中科院 2 区)</span>
   <span style="background:#3f51b5; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">JCR Q1</span>  
   Submitted to **Journal of King Saud University – Computer and Information Sciences**.
 
