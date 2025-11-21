@@ -29,7 +29,7 @@ gravity-inspired clustering & classification algorithms.
 <dl>
 
   <dt>
-    <img src="/images/hkbu.png" width="90" style="float:left; margin-right:15px;">
+   <img src="/images/hkbu.png" width="90">
   </dt>
 
   <dt><strong>Hong Kong Baptist University (HKBU)</strong></dt>
