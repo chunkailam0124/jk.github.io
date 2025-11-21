@@ -39,7 +39,7 @@ gravity-inspired clustering & classification algorithms.
   <dt>
     <img src="/images/hkbu.png" width="90" height="90" alt="bnbu" align="left" />
   </dt>
-  <dt> Beijing Normal – Hong Kong Baptist University</dt>
+  <dt> Beijing Normal – Hong Kong Baptist University (BNBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
   <dd> Data Science Program (HKBU Degree)</dd>
 
