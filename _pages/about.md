@@ -47,7 +47,7 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 
 ---
 
-# 📄 Publications (Selected)
+# 📄 Publications
 
 ### **Conference**
 - **Junkai Chen†, Junkai Lin†** (2025). *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
@@ -70,8 +70,8 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 
 # 🔬 Research Experience
 
-### **Gravity & Cluster-Inspired ML Algorithms** (FYP)  
-**Research Student**, BNBU · *2025.04 – Present*  
+### **Gravity & I/O Cluster-Inspired ML Algorithms and DoE** (FYP)  
+**Research Student (FYP)**, BNBU · *2025.04 – Present*  
 - Advisor: **Dr. A. M. Elsawah**  
 - Developed hybrid gravity-SVM & gravity cluster–supervised frameworks for statistical modeling, testing,  
   and real-world data analysis.
@@ -79,19 +79,19 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 ### **Unsupervised Cell Slice Clustering (Bioinformatics)**  
 **Research Assistant**, BNBU · *2023.10 – 2024.06*  
 - Advisor: **Dr. Jiaxing Chen**  
-- Optimized Louvain clustering for large-scale biological cell slice datasets.
+- Optimized Louvain algorithms clustering for large-scale biological cell slice datasets.
 
 ---
 
 # 💼 Professional Internships
 
-### **Hong Kong Applied Science and Technology Research Institute (ASTRI)**  
-*Summer Intern* · Hong Kong · **2025.06 – 2025.08**  
+### **Hong Kong Applied Science and Technology Research Institute Co., Ltd. (ASTRI)**  
+*Summer Intern* · Shatin, Hong Kong SAR · **2025.06 – 2025.08**  
 - Improved diffusion-based HI-Diff for microscopy deblurring.  
-- Resulting work accepted by **IEEE ICVRV 2025**.
+- Resulting work is a part of the paper accepted by **IEEE ICVRV 2025**.
 
 ### **Hong Kong University of Science and Technology (Guangzhou)**  
-*Research Intern* · Guangzhou · **2024.08 – 2024.09**  
+*Research Intern* · Guangzhou, China · **2024.08 – 2024.09**  
 - Advisor: **Dr. Julie Qiaojin Lin**  
 - Developed DL models for DNA electrical signal recognition and A-to-I RNA modification analysis.
 
@@ -101,14 +101,15 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 - **Kaggle – NeurIPS Open Polymer Prediction (2025)** · Bronze Medal (Top 5.2%)  
 - **Kaggle – Locating Bacterial Flagellar Motors (2025)** · Bronze Medal (Top 8%)  
 - **Yuanguang Cup – GBA Computer Design Competition (2025)** · Provincial 3rd Prize  
-- **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · Bronze Medal  
+- **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · Bronze Medal (Top 10%)
 - **CUMCM (2023)** · Provincial 3rd Prize  
 
 ---
 
 # 💻 Course Projects
 - **"U-Dream" Study Abroad Information Query Platform**  
-  *Selected for BNBU CS–DS Poster Conference 2024*  
+  *Selected for BNBU CS–DS Poster Conference 2024*
+  - COMP3013 Database Management Systems, BNBU
   - Designed DBMS-based query platform  
   - Built simulation datasets & performed data analysis with Python
 
