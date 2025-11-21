@@ -55,7 +55,7 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
   <dt>
     <img src="/jk.github.io/images/astri.png" width="90" height="90" alt="astri" align="left" />
   </dt>
-  <dt> Hong Kong Applied Science and Technology Research Institute (ASTRI)</dt>
+  <dt> Hong Kong Applied Science and Technology Research Institute Co., Ltd. (ASTRI)</dt>
   <dd> Summer Intern · Shatin, Hong Kong SAR</dd>
   <dd> June 2025 – August 2025</dd>
   <dd> Worked on enhancing diffusion-based HI-Diff for microscopy deblurring; resulting work is a part of the paper accepted to ICVRV 2025.</dd>
