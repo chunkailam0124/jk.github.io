@@ -35,6 +35,7 @@ gravity-inspired clustering & classification algorithms.
   <dd> September 2022 – June 2026 (Expected)</dd>
   <dd> B.Sc. (Hons) in Data Science</dd>
 
+  <br><br><br>
   <!-- BNBU Logo (if available) -->
   <dt>
     <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
