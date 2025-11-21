@@ -33,15 +33,15 @@ gravity-inspired clustering & classification algorithms.
   </dt>
   <dt> Hong Kong Baptist University (HKBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
-  <dd> Bachelor of Science (Hons) in Data Science</dd>
+  <dd> B.Sc. (Hons) in Data Science</dd>
 
   <!-- BNBU Logo (if available) -->
   <dt>
-    <img src="/images/hkbu.png" width="90" height="90" alt="bnbu" align="left" />
+    <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
   </dt>
   <dt> Beijing Normal – Hong Kong Baptist University (BNBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
-  <dd> Data Science Program (HKBU Degree)</dd>
+  <dd> B.Sc. (Hons) in Data Science (award by HKBU)</dd>
 
 </dl>
 
