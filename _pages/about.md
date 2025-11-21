@@ -105,17 +105,33 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 
 ---
 
-# 💼 Professional Internships
 
-### **Hong Kong Applied Science and Technology Research Institute Co., Ltd. (ASTRI)**  
-*Summer Intern* · Shatin, Hong Kong SAR · **2025.06 – 2025.08**  
-- Improved diffusion-based HI-Diff for microscopy deblurring.  
-- Resulting work is a part of the paper accepted by **IEEE ICVRV 2025**.
+<h2 id="internships">Professional Internships</h2>
 
-### **Hong Kong University of Science and Technology (Guangzhou)**  
-*Research Intern* · Guangzhou, China · **2024.08 – 2024.09**  
-- Advisor: **Dr. Julie Qiaojin Lin**  
-- Developed DL models for DNA electrical signal recognition and A-to-I RNA modification analysis.
+<dl>
+
+  <!-- ASTRI -->
+  <dt>
+    <img src="/jk.github.io/images/astri.png" width="90" height="90" alt="astri" align="left" />
+  </dt>
+  <dt> Hong Kong Applied Science and Technology Research Institute (ASTRI)</dt>
+  <dd> Summer Intern · Hong Kong</dd>
+  <dd> June 2025 – August 2025</dd>
+  <dd> Worked on enhancing diffusion-based HI-Diff for microscopy deblurring; resulting work is a part of the paper accepted to ICVRV 2025.</dd>
+  <div style="clear: both; margin-bottom: 25px;"></div>
+
+  <!-- HKUST(GZ) -->
+  <dt>
+    <img src="/jk.github.io/images/hkustgz.png" width="90" height="90" alt="hkustgz" align="left" />
+  </dt>
+  <dt> Hong Kong University of Science and Technology (Guangzhou)</dt>
+  <dd> Research Intern · Guangzhou</dd>
+  <dd> August 2024 – September 2024</dd>
+  <dd> Advisor: Dr. Julie Qiaojin Lin; developed DL models for DNA electrical signal recognition & A-to-I RNA modification analysis.</dd>
+  <div style="clear: both; margin-bottom: 25px;"></div>
+
+</dl>
+
 
 ---
 
