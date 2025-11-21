@@ -50,17 +50,34 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 # 📄 Publications
 
 ### **Conference**
-- **Junkai Chen†, Junkai Lin†** (2025). *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
-  Submitted to **IEEE ICASSP 2026**, Spain. *(Under review)*  
 
-- **Junkai Lin\***, Weitong Li†, Di Li† (2025). *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
-  **IEEE ICVRV 2025**, Colombia. *(Accepted)*  
+- **Junkai Chen†, Junkai Lin†** (2025).  
+  *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
+  <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
+  <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
+  <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
+  Submitted to **IEEE ICASSP 2026**, Spain.
 
-- Xunfei Zhu\*†, Weitong Li†, **Junkai Lin** (2025). *PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale.*  
-  **PRICAI 2025**, New Zealand. *(Accepted)*  
+- **Junkai Lin\***, Weitong Li†, Di Li† (2025).  
+  *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
+  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
+  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
+  **IEEE ICVRV 2025**, Colombia.
 
-- Di Li†, Junkai Lin†, Siqi Hou†, Yanyan Ji\* (2025). *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
-  **ICIRA 2025**, Japan. *(Published)*  
+- Xunfei Zhu\*†, Weitong Li†, **Junkai Lin** (2025).  
+  *PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale.*  
+  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
+  <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
+  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
+  **PRICAI 2025**, New Zealand.
+
+
+- Di Li†, Junkai Lin†, Siqi Hou†, Yanyan Ji\* (2025).  
+  *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
+  <span style="background:#0d47a1; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Published</span>
+  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Mechanical Engineering Conf. Index Class - A</span>  
+  **ICIRA 2025**, Japan.
+
 
 ### **Journal**
 - **Junkai Lin†**, Jiarui Cao†, A. M. Elsawah\* (2025). *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
