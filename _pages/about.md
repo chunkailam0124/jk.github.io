@@ -33,7 +33,7 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
   <dt> Hong Kong Baptist University (HKBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
   <dd> B.Sc. (Hons) in Data Science</dd>
-  <br><br><br>
+  <div style="clear: both;"></div>
   <!-- BNBU Logo (if available) -->
   <dt>
     <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
