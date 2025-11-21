@@ -29,16 +29,19 @@ gravity-inspired clustering & classification algorithms.
 <dl>
 
   <dt>
-    <img src="/images/hkbu.png" width="90">
+    <img src="/images/hkbu.png" width="90" style="float:left; margin-right:15px;">
   </dt>
 
-  <dt> <strong>Hong Kong Baptist University (HKBU)</strong></dt>
-  <dd> Bachelor of Science (Hons) in Data Science</dd>
-  <dd> Studies at Beijing Normal – Hong Kong Baptist University (BNBU)</dd>
-  <dd> 2022.09 – 2026.06 (Expected) · Zhuhai, China</dd>
-  <dd> GPA: 3.42 / 4.0 (First-class domain)</dd>
+  <dt><strong>Hong Kong Baptist University (HKBU)</strong></dt>
+  <dd>Bachelor of Science (Hons) in Data Science</dd>
+  <dd>Studies at Beijing Normal – Hong Kong Baptist University (BNBU)</dd>
+  <dd>2022.09 – 2026.06 (Expected) · Zhuhai, China</dd>
+  <dd>GPA: 3.42 / 4.0 (First-class domain)</dd>
 
 </dl>
+
+<div style="clear:both;"></div>
+
 
 <br><br><br>
 
