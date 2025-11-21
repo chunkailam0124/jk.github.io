@@ -29,7 +29,7 @@ gravity-inspired clustering & classification algorithms.
 
   <!-- HKBU/UIC -->
   <dt>
-    <img src="/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
+    <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
   </dt>
   <dt> Hong Kong Baptist University (HKBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
