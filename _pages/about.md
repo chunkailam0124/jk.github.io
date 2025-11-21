@@ -9,8 +9,6 @@ redirect_from:
 
 # About Me
 
-# About Me
-
 I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
 **Beijing Normal – Hong Kong Baptist University (BNBU)**.  
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
