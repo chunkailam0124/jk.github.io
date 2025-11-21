@@ -15,8 +15,6 @@ My research interests lie in Machine Learning, Optimization, Multimodal & Large 
 
 I work in both English and Chinese, with **native proficiency in Mandarin and Teochew**, **high proficiency in Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
 
-I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently leading projects (graduation thesis) on  **gravity-inspired clustering & classification algorithms**.
-
 
 ---
 
