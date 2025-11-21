@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
+I am **Junkai (Jackie) Lin**, currently an Y4 undergraduate student in **Data Science** at  
 **Beijing Normal – Hong Kong Baptist University (BNBU)**.  
 My research interests lie in:
 
@@ -46,6 +46,22 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 
 
 <br><br><br>
+
+
+<h2 id="languages">Languages</h2>
+<dl>
+
+  <dt><img src="/jk.github.io/images/lang.png" width="90" height="90" alt="languages" align="left" /></dt>
+  <dt> Languages</dt>
+  <dd> Mandarin Chinese — Native</dd>
+  <dd> Cantonese — Proficient</dd>
+  <dd> English — Advanced (IELTS 7.0 equivalent)</dd>
+  <dd> Japanese — Basic Communication</dd>
+
+</dl>
+
+<br><br><br>
+
 ---
 
 # 📄 Publications (Selected)
@@ -112,3 +128,5 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
   *Selected for BNBU CS–DS Poster Conference 2024*  
   - Designed DBMS-based query platform  
   - Built simulation datasets & performed data analysis with Python
+
+
