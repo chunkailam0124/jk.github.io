@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkai (Jack/Jackie) Lin Personal Website"
+title: "Chun-Kai Lam / Zung-Kai Lim"
 author_profile: true
 redirect_from: 
   - /about/
