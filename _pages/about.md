@@ -96,8 +96,7 @@ I have published papers at **ICVRV**, **ICIRA**, **PRICAI**, and am currently le
 ### **Gravity & I/O Cluster-Inspired ML Algorithms and DoE** (FYP)  
 **Research Student (FYP)**, BNBU · *2025.04 – Present*  
 - Advisor: **Dr. A. M. Elsawah**  
-- Developed hybrid gravity-SVM & gravity cluster–supervised frameworks for statistical modeling, testing,  
-  and real-world data analysis.
+- Developed hybrid gravity-SVM & gravity Input-output cluster–supervised frameworks for statistical modeling, testing, and real-world data analysis, also design a intelligent algorithm apply on DoE with Factor scanning and design.
 
 ### **Unsupervised Cell Slice Clustering (Bioinformatics)**  
 **Research Assistant**, BNBU · *2023.10 – 2024.06*  
