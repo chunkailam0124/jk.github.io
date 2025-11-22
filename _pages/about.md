@@ -107,7 +107,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/yg.png" alt="ygcup">
   <div>
-    <strong>Yuanguang Cup – GBA Computer Design Competition</strong><br>
+    <strong>Yuanguang Cup – GBA Computer Design Competition of China</strong><br>
     🥉 Provincial 3rd Prize · 2025
   </div>
 </div>
@@ -123,7 +123,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/cumcm.png" alt="cumcm">
   <div>
-    <strong>CUMCM (Mathematical Contest in Modeling)</strong><br>
+    <strong>CUMCM (China UG Mathematical Contest in Modeling)</strong><br>
     🥉 Provincial 3rd Prize · 2023
   </div>
 </div>
