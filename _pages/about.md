@@ -79,32 +79,32 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 
 ### **Conference**
 
-- **Junkai Chen†, Junkai Lin†** (2025).  
+- Junkai Chen†, **Junkai Lin†** (2025).  
   *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
   <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
   <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
-  Submitted to **IEEE ICASSP 2026**, Spain.
+  Submitted to **IEEE ICASSP 2026**, Barcelona, Spain.
 
 - **Junkai Lin\***, Weitong Li†, Di Li† (2025).  
   *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
   <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **IEEE ICVRV 2025**, Colombia.
+  **IEEE ICVRV 2025**, Bogotá, Colombia.
 
 - Xunfei Zhu\*†, Weitong Li†, **Junkai Lin** (2025).  
   *PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale.*  
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
   <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
   <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **PRICAI 2025**, New Zealand.
+  **PRICAI 2025**, Wellington, New Zealand.
 
 
-- Di Li†, Junkai Lin†, Siqi Hou†, Yanyan Ji\* (2025).  
+- Di Li†, **Junkai Lin†**, Siqi Hou†, Yanyan Ji\* (2025).  
   *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
   <span style="background:#0d47a1; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Published</span>
-  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Conf. Index Mechanical Engineering Class-A</span>  
-  **ICIRA 2025**, Japan.
+  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Conf. Index Mechanical Engi. Class-A</span>  
+  **ICIRA 2025**, Okayama, Japan.
 
 
 ### **Journal**
