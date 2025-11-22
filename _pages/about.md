@@ -91,7 +91,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
-    <strong>Kaggle – NeurIPS Open Polymer Prediction</strong><br>
+    <strong>Kaggle – NeurIPS Open Polymer Prediction (Hosted by University of Notre Dame)</strong><br>
     🥉 Bronze Medal · Top 5.2% · 2025
   </div>
 </div>
@@ -99,7 +99,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/byu.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Locating Bacterial Flagellar Motors</strong><br>
+    <strong>Kaggle – Locating Bacterial Flagellar Motors (Hosted by BYU)</strong><br>
     🥉 Bronze Medal · Top 8% · 2025
   </div>
 </div>
@@ -115,7 +115,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Game-Playing Strength of MCTS Variants</strong><br>
+    <strong>Kaggle – Game-Playing Strength of MCTS Variants(Hosted by Universiteit Maastricht)</strong><br>
     🥉 Bronze Medal · Top 10% · 2024
   </div>
 </div>
