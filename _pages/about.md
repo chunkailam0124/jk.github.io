@@ -71,6 +71,55 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 
 </dl>
 
+
+<h2 id="honors-awards">Honors & Awards</h2>
+
+<dl>
+
+  <!-- Kaggle NeurIPS Polymer -->
+  <dt>
+    <img src="/jk.github.io/images/und.png" width="85" height="85" alt="kaggle" align="left" />
+  </dt>
+  <dt> Kaggle – NeurIPS Open Polymer Prediction</dt>
+  <dd> Bronze Medal · Top 5.2% · 2025</dd>
+  <div style="clear: both; margin-bottom: 22px;"></div>
+
+  <!-- Kaggle Flagellar Motors -->
+  <dt>
+    <img src="/jk.github.io/images/byu.png" width="85" height="85" alt="kaggle" align="left" />
+  </dt>
+  <dt> Kaggle – Locating Bacterial Flagellar Motors</dt>
+  <dd> Bronze Medal · Top 8% · 2025</dd>
+  <div style="clear: both; margin-bottom: 22px;"></div>
+
+  <!-- Yuanguang Cup -->
+  <dt>
+    <img src="/jk.github.io/images/yg.png" width="85" height="85" alt="ygcup" align="left" />
+  </dt>
+  <dt> Yuanguang Cup – GBA Computer Design Competition</dt>
+  <dd> Provincial 3rd Prize · 2025</dd>
+  <div style="clear: both; margin-bottom: 22px;"></div>
+
+  <!-- Kaggle MCTS -->
+  <dt>
+    <img src="/jk.github.io/images/ma.png" width="85" height="85" alt="kaggle" align="left" />
+  </dt>
+  <dt> Kaggle – Game-Playing Strength of MCTS Variants</dt>
+  <dd> Bronze Medal · Top 10% · 2024</dd>
+  <div style="clear: both; margin-bottom: 22px;"></div>
+
+  <!-- CUMCM -->
+  <dt>
+    <img src="/jk.github.io/images/cumcm.png" width="85" height="85" alt="cumcm" align="left" />
+  </dt>
+  <dt> CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)</dt>
+  <dd> Provincial 3rd Prize · 2023</dd>
+  <div style="clear: both; margin-bottom: 22px;"></div>
+
+</dl>
+
+
+
 <br><br><br>
 
 ---
