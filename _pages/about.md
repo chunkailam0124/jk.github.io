@@ -92,7 +92,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
     <strong>Kaggle – NeurIPS Open Polymer Prediction</strong><br>
-    Bronze Medal · Top 5.2% · 2025
+    🥉 Bronze Medal · Top 5.2% · 2025
   </div>
 </div>
 
@@ -100,7 +100,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/byu.png" alt="kaggle">
   <div>
     <strong>Kaggle – Locating Bacterial Flagellar Motors</strong><br>
-    Bronze Medal · Top 8% · 2025
+    🥉 Bronze Medal · Top 8% · 2025
   </div>
 </div>
 
@@ -108,7 +108,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/yg.png" alt="ygcup">
   <div>
     <strong>Yuanguang Cup – GBA Computer Design Competition</strong><br>
-    Provincial 3rd Prize · 2025
+    🥉 Provincial 3rd Prize · 2025
   </div>
 </div>
 
@@ -116,7 +116,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
     <strong>Kaggle – Game-Playing Strength of MCTS Variants</strong><br>
-    Bronze Medal · Top 10% · 2024
+    🥉 Bronze Medal · Top 10% · 2024
   </div>
 </div>
 
@@ -124,7 +124,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/cumcm.png" alt="cumcm">
   <div>
     <strong>CUMCM (Mathematical Contest in Modeling)</strong><br>
-    Provincial 3rd Prize · 2023
+    🥉 Provincial 3rd Prize · 2023
   </div>
 </div>
 
