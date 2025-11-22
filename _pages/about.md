@@ -115,7 +115,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Game-Playing Strength of MCTS Variants (Hosted by UM)</strong><br>
+    <strong>Kaggle – Game-Playing Strength of MCTS Variants (Hosted by Uni. Maastricht)</strong><br>
     🥉 Bronze Medal · Top 10% · 2024
   </div>
 </div>
