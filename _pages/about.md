@@ -13,7 +13,7 @@ I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Scien
 **Beijing Normal – Hong Kong Baptist University (BNBU, 北師香港浸會大學)**.  
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
 
-I work in both English and Chinese, with **native proficiency in Mandarin and Teochew**, **high proficiency in Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
+I work in both English and Chinese, with **native proficiency in Mandarin and Teochew(Hokkien)**, **high proficiency in Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
 
 
 ---
