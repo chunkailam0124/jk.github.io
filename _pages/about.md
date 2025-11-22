@@ -53,7 +53,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <dt>
     <img src="/jk.github.io/images/astri.png" width="90" height="90" alt="astri" align="left" />
   </dt>
-  <dt> Hong Kong Applied Science and Technology Research Institute Co., Ltd. (ASTRI)</dt>
+  <dt> Hong Kong Applied Science and Technology Research Institute Co., Ltd.</dt>
   <dd> Summer Intern · Shatin, Hong Kong SAR</dd>
   <dd> June 2025 – August 2025</dd>
   <dd> Worked on enhancing diffusion-based HI-Diff for microscopy deblurring; resulting work is a part of the paper accepted to ICVRV 2025.</dd>
