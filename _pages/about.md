@@ -115,7 +115,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 <div class="award-row">
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Game-Playing Strength of MCTS Variants(Hosted by Universiteit Maastricht)</strong><br>
+    <strong>Kaggle – Game-Playing Strength of MCTS Variants (Hosted by UM)</strong><br>
     🥉 Bronze Medal · Top 10% · 2024
   </div>
 </div>
@@ -195,12 +195,15 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
 
 ---
 
+{% comment %}
 # 🏅 Honors & Awards
 - **Kaggle – NeurIPS Open Polymer Prediction (2025)** · 🥉Bronze Medal **(Top 5.2%)**  
 - **Kaggle – Locating Bacterial Flagellar Motors (2025)** · 🥉Bronze Medal **(Top 8%)**
 - **Yuanguang Cup – GBA Computer Design Competition (2025)** · 🥉Provincial 3rd Prize  
 - **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · 🥉Bronze Medal **(Top 10%)**
-- **CUMCM (2023)** · 🥉Provincial 3rd Prize  
+- **CUMCM (2023)** · 🥉Provincial 3rd Prize
+{% endcomment %}
+
 
 ---
 
