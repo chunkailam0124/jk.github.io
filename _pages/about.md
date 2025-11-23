@@ -28,7 +28,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
   </dt>
   <dt> Hong Kong Baptist University (HKBU)</dt>
-  <dd> September 2022 – June 2026 (Expected) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20"></dd>
+  <dd> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20"></dd> September 2022 – June 2026 (Expected) 
   <dd> B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）</dd>
   <div style="clear: both;"></div>
   <!-- BNBU Logo (if available) -->
