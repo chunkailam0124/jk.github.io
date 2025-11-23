@@ -92,7 +92,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
     <strong>Kaggle – NeurIPS Open Polymer Prediction (Hosted by Uni. Notre Dame)</strong><br>
-    🥉 **Bronze Medal** · Top 5.2% · 2025
+    🥉 Bronze Medal · Top 5.2% · 2025
   </div>
 </div>
 
