@@ -21,25 +21,46 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 ---
 
 <h2 id="education">Education</h2>
-<dl>
 
-  <!-- HKBU/UIC -->
-  <dt>
-    <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
-  </dt>
-  <dt> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20"> Hong Kong Baptist University (HKBU)</dt>
-  <dd> </dd> September 2022 – June 2026 (Expected) 
-  <dd> B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）</dd>
-  <div style="clear: both;"></div>
-  <!-- BNBU Logo (if available) -->
-  <dt>
-    <img src="/jk.github.io/images/hkbu.png" width="90" height="90" alt="hkbu" align="left" />
-  </dt>
-  <dt> Beijing Normal – Hong Kong Baptist University (北師香港浸會大學)</dt>
-  <dd> September 2022 – June 2026 (Expected)</dd>
-  <dd> B.Sc. (Hons) in Data Science (award by HKBU)</dd>
+<style>
+.edu-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+.edu-logo {
+  width: 90px;
+  height: 90px;
+  margin-right: 15px;
+}
+.flag-icon {
+  width: 20px;
+  vertical-align: middle;
+}
+</style>
 
-</dl>
+<div class="edu-row">
+  <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="hkbu">
+
+  <div>
+    <strong>
+      <img class="flag-icon" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
+      Hong Kong Baptist University (HKBU)
+    </strong><br>
+    September 2022 – June 2026 (Expected) <br>
+    B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）
+  </div>
+</div>
+
+<div class="edu-row">
+  <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="bnbu">
+
+  <div>
+    <strong>Beijing Normal – Hong Kong Baptist University (北師香港浸會大學)</strong><br>
+    September 2022 – June 2026 (Expected)<br>
+    B.Sc. (Hons) in Data Science (award by HKBU)
+  </div>
+</div>
 
 
 
