@@ -1,12 +1,11 @@
-<img width="1155" height="180" alt="image" src="https://github.com/user-attachments/assets/c97e0d1d-f32c-46d8-945a-c1323096189d" />---
+---
 permalink: /
-title: "Chun-Kai Lam / Zung-Kai Lim"
+title: ...
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
 # About Me
 
 I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
