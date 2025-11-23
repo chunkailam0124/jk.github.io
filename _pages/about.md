@@ -56,7 +56,10 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
   <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="bnbu">
 
   <div>
-    <strong>Beijing Normal – Hong Kong Baptist University (北師香港浸會大學)</strong><br>
+    <strong>
+      <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
+      Beijing Normal – Hong Kong Baptist University (北師香港浸會大學)
+    </strong><br>
     September 2022 – June 2026 (Expected)<br>
     B.Sc. (Hons) in Data Science (award by HKBU)
   </div>
