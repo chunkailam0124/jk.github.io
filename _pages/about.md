@@ -13,7 +13,9 @@ I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Scien
 **Beijing Normal – Hong Kong Baptist University (The Oveasea Campus of Hong Kong Baptist University at Zhuhai China, 北師香港浸會大學)**.  
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
 
-I work in both English and Chinese, with **native proficiency in Mandarin and Teochew(Hokkien)**, **high proficiency in Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
+I work in both English and Chinese, with **native proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
+Mandarin and Teochew(Hokkien)**, **high proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20">
+Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
 
 
 ---
@@ -152,20 +154,20 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
   <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
   <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
-  Submitted to **IEEE ICASSP 2026**, Barcelona, Spain.
+  Submitted to **IEEE ICASSP 2026**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" width="20"> Barcelona, Spain.
 
 - **Junkai Lin\***, Weitong Li†, Di Li† (2025).  
   *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
   <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **IEEE ICVRV 2025**, Bogotá, Colombia.
+  **IEEE ICVRV 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg" width="20"> Bogotá, Colombia.
 
 - Xunfei Zhu\*†, Weitong Li†, **Junkai Lin** (2025).  
   *PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale.*  
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
   <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
   <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **PRICAI 2025**, Wellington, New Zealand.
+  **PRICAI 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ff.svg" width="20"> Wellington, New Zealand.
 
 
 - Di Li†, **Junkai Lin†**, Siqi Hou†, Yanyan Ji\* (2025).  
@@ -182,7 +184,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS Q2(中科院 2 区)</span>
   <span style="background:#3f51b5; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">JCR Q1</span>  
-  Submitted to **Journal of King Saud University – Computer and Information Sciences**.
+  Submitted to <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg" width="20"> **Journal of King Saud University – Computer and Information Sciences**.
 
 
 ---
