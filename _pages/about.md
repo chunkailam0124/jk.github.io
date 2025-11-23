@@ -132,7 +132,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   <img src="/jk.github.io/images/mac.png" alt="cumcm">
   <div>
     <strong>International UG Mathematical Contest in Modeling (Macao)</strong><br>
-    🥇 Finalist Prize · 2023
+    🥇 Finalist Prize (Regional) · 2023
   </div>
 </div>
 
