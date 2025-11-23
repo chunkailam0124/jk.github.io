@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: ...
+title: "Chun-Kai Lam / Zung-Kai Lim"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
+
 # About Me
 
 I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
