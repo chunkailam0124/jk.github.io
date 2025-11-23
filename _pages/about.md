@@ -10,7 +10,7 @@ redirect_from:
 # About Me
 
 I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
-**Beijing Normal – Hong Kong Baptist University (The Oveasea Campus of Hong Kong Baptist University, 北師香港浸會大學)**.  
+**Beijing Normal – Hong Kong Baptist University (The Oveasea Campus of Hong Kong Baptist University at Zhuhai China, 北師香港浸會大學)**.  
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
 
 I work in both English and Chinese, with **native proficiency in Mandarin and Teochew(Hokkien)**, **high proficiency in Cantonese**, and **advanced English ability** suitable for academic writing, presentations, and research collaboration.
