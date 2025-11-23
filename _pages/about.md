@@ -27,7 +27,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   </dt>
   <dt> Hong Kong Baptist University (HKBU)</dt>
   <dd> September 2022 – June 2026 (Expected)</dd>
-  <dd> B.Sc. (Hons) in Data Science</dd>
+  <dd> B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）</dd>
   <div style="clear: both;"></div>
   <!-- BNBU Logo (if available) -->
   <dt>
