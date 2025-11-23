@@ -172,7 +172,7 @@ I work in both English and Chinese, with **native proficiency in Mandarin and Te
   *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
   <span style="background:#0d47a1; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Published</span>
   <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Conf. Index Mechanical Engi. Class-A</span>  
-  **ICIRA 2025**, Okayama, Japan.
+  **ICIRA 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg" width="20"> Okayama, Japan.
 
 
 ### **Journal**
