@@ -56,7 +56,8 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     <img src="/jk.github.io/images/astri.png" width="90" height="90" alt="astri" align="left" />
   </dt>
   <dt> Hong Kong Applied Science and Technology Research Institute Co., Ltd.</dt>
-  <dd> Summer Intern · Shatin, Hong Kong SAR</dd>
+  <dd> Summer Intern · <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20">
+Shatin, Hong Kong SAR</dd>
   <dd> June 2025 – August 2025</dd>
   <dd> Worked on enhancing diffusion-based HI-Diff for microscopy deblurring; resulting work is a part of the paper accepted to ICVRV 2025.</dd>
   <div style="clear: both; margin-bottom: 25px;"></div>
@@ -66,7 +67,8 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     <img src="/jk.github.io/images/hkustgz.png" width="90" height="90" alt="hkustgz" align="left" />
   </dt>
   <dt> Hong Kong University of Science and Technology (Guangzhou)</dt>
-  <dd> Research Intern · Guangzhou, China</dd>
+  <dd> Research Intern · <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
+Guangzhou, China</dd>
   <dd> August 2024 – September 2024</dd>
   <dd> Advisor: Dr. Julie Qiaojin Lin; developed DL models for DNA electrical signal recognition & A-to-I RNA modification analysis.</dd>
   <div style="clear: both; margin-bottom: 25px;"></div>
@@ -93,7 +95,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
-    <strong>Kaggle – NeurIPS Open Polymer Prediction (Hosted by Uni. Notre Dame)</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="20"> Kaggle – NeurIPS Open Polymer Prediction (Hosted by Uni. Notre Dame)</strong><br>
     🥉 Bronze Medal 🌏(International) · Top 5.2% · 2025
   </div>
 </div>
@@ -101,7 +103,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/byu.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Locating Bacterial Flagellar Motors (Hosted by BYU)</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="20"> Kaggle – Locating Bacterial Flagellar Motors (Hosted by BYU)</strong><br>
     🥉 Bronze Medal 🌏(International) · Top 8% · 2025
   </div>
 </div>
@@ -109,7 +111,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/yg.png" alt="ygcup">
   <div>
-    <strong>Yuanguang Cup – GBA Computer Design Competition of China</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20"> Yuanguang Cup – GBA Computer Design Competition of China</strong><br>
     🥉 Provincial 3rd Prize · 2025
   </div>
 </div>
@@ -117,7 +119,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
-    <strong>Kaggle – Game-Playing Strength of MCTS Variants (Hosted by Uni. Maastricht)</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f1.svg" width="20"> Kaggle – Game-Playing Strength of MCTS Variants (Hosted by Uni. Maastricht)</strong><br>
     🥉 Bronze Medal 🌏(International) · Top 10% · 2024
   </div>
 </div>
@@ -125,7 +127,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/cumcm.png" alt="cumcm">
   <div>
-    <strong>CUMCM (China UG Mathematical Contest in Modeling)</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20"> CUMCM (China UG Mathematical Contest in Modeling)</strong><br>
     🥉 Provincial 3rd Prize · 2023
   </div>
 </div>
@@ -133,7 +135,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="award-row">
   <img src="/jk.github.io/images/mac.png" alt="cumcm">
   <div>
-    <strong>International UG Mathematical Contest in Modeling (Macao)</strong><br>
+    <strong><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f4.svg" width="20"> International UG Mathematical Contest in Modeling (Macao)</strong><br>
     🥇 Finalist Prize (Regional) · 2023
   </div>
 </div>
