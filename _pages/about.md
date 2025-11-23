@@ -1,4 +1,4 @@
----
+<img width="1155" height="180" alt="image" src="https://github.com/user-attachments/assets/c97e0d1d-f32c-46d8-945a-c1323096189d" />---
 permalink: /
 title: "Chun-Kai Lam / Zung-Kai Lim"
 author_profile: true
@@ -96,7 +96,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
     <strong> Kaggle – NeurIPS Open Polymer Prediction (Hosted by Uni. Notre Dame)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 5.2% · 2025 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="20">
+    🥉 Bronze Medal 🌏(International) · Top 5.2% · 2025 
   </div>
 </div>
 
@@ -104,7 +104,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/byu.png" alt="kaggle">
   <div>
     <strong> Kaggle – Locating Bacterial Flagellar Motors (Hosted by BYU)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 8% · 2025 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="20">
+    🥉 Bronze Medal 🌏(International) · Top 8% · 2025
   </div>
 </div>
 
@@ -112,7 +112,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/yg.png" alt="ygcup">
   <div>
     <strong> Yuanguang Cup – GBA Computer Design Competition of China</strong><br>
-    🥉 Provincial 3rd Prize · 2025 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
+    🥉 Provincial 3rd Prize · 2025 
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
     <strong> Kaggle – Game-Playing Strength of MCTS Variants (Hosted by Uni. Maastricht)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 10% · 2024 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f1.svg" width="20">
+    🥉 Bronze Medal 🌏(International) · Top 10% · 2024 
   </div>
 </div>
 
@@ -128,7 +128,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/cumcm.png" alt="cumcm">
   <div>
     <strong> CUMCM (China UG Mathematical Contest in Modeling)</strong><br>
-    🥉 Provincial 3rd Prize · 2023 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
+    🥉 Provincial 3rd Prize · 2023
   </div>
 </div>
 
@@ -136,7 +136,7 @@ Guangzhou, China</dd>
   <img src="/jk.github.io/images/mac.png" alt="cumcm">
   <div>
     <strong> International UG Mathematical Contest in Modeling (Macao)</strong><br>
-    🥇 Finalist Prize (Regional) · 2023 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f4.svg" width="20">
+    🥇 Finalist Prize (Regional) · 2023 
   </div>
 </div>
 
