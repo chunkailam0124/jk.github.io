@@ -14,7 +14,7 @@ I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Scien
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
 
 I work in both English and Chinese, with **native proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
-Mandarin and Teochew(<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg" width="20"> Hokkien)**, **high proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20">
+Mandarin and Teochew (<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg" width="20"> Hokkien)**, **high proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20">
 Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="20"> English ability** suitable for academic writing, presentations, and research collaboration.
 
 
