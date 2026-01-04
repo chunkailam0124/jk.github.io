@@ -178,7 +178,7 @@ Guangzhou, China</dd>
 - Junkai Chen†, **Junkai Lin†** (2025).  
   *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
+  <span style="background:#d32f2f; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-A</span>
   <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
   Submitted to **IEEE ICME 2026**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ed.svg" width="20"> Bangkok, Thailand.
 
@@ -208,7 +208,7 @@ Guangzhou, China</dd>
 - **Junkai Lin†**, Jiarui Cao†, A. M. Elsawah\* (2025).  
   *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS 2nd(中科院 2 区)</span>
+  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS 2nd (中科院二区)</span>
   <span style="background:#3f51b5; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">JCR Q1</span>  
   Submitted to <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg" width="20"> **Journal of KSU CIS**.
 
