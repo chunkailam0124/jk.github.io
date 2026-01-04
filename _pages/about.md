@@ -180,7 +180,7 @@ Guangzhou, China</dd>
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
   <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
   <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
-  Submitted to **IEEE ICASSP 2026**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" width="20"> Barcelona, Spain.
+  Submitted to **IEEE ICME 2026**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ed.svg" width="20"> Bangkok, Thailand.
 
 - **Junkai Lin\***, Weitong Li†, Di Li† (2025).  
   *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
@@ -208,9 +208,9 @@ Guangzhou, China</dd>
 - **Junkai Lin†**, Jiarui Cao†, A. M. Elsawah\* (2025).  
   *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS Q2(中科院 2 区)</span>
+  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS 2nd(中科院 2 区)</span>
   <span style="background:#3f51b5; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">JCR Q1</span>  
-  Submitted to <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg" width="20"> **Journal of King Saud University – Computer and Information Sciences**.
+  Submitted to <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg" width="20"> **Journal of KSU CIS**.
 
 
 ---
@@ -221,11 +221,6 @@ Guangzhou, China</dd>
 **Research Student (FYP)**, BNBU · *2025.04 – Present*  
 - Advisor: **Dr. A. M. Elsawah**  
 - Developed hybrid gravity-SVM & gravity Input-output cluster–supervised frameworks for statistical modeling, testing, and real-world data analysis, also design a intelligent algorithm apply on DoE with Factor scanning and design.
-
-### **Unsupervised Cell Slice Clustering (Bioinformatics)**  
-**Research Assistant**, BNBU · *2023.10 – 2024.06*  
-- Advisor: **Dr. Jiaxing Chen**  
-- Optimized Louvain algorithms clustering for large-scale biological cell slice datasets.
 
 
 
