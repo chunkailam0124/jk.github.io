@@ -205,7 +205,7 @@ Guangzhou, China</dd>
 
 ### **Journal**
 
-- **Junkai Lin†**, Jiarui Cao†, A. M. Elsawah\* (2025).  
+- **Junkai Lin†**, Jiarui Cao†, Yujia Hu\*, A. M. Elsawah\* (2025).  
   *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
   <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
   <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS 2nd (中科院二区)</span>
