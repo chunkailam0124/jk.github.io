@@ -70,5 +70,48 @@ author_profile: true
 
 </div>
 
+<style>
+.poster-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-top: 24px;
+}
+
+.poster-item {
+  text-align: center;
+}
+
+.poster-item img {
+  width: 100%;
+  max-width: 260px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.poster-title {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #0047ab;
+  text-decoration: none;
+}
+
+/* 响应式（可选但强烈建议） */
+@media (max-width: 900px) {
+  .poster-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .poster-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
 
 
