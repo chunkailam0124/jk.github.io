@@ -116,7 +116,7 @@ Guangzhou, China</dd>
 }
 </style>
 <div class="award-row">
-  <img src="/jk.github.io/images/x.png" alt="kaggle">
+  <img src="/jk.github.io/images/xx.png" alt="kaggle">
   <div>
     <strong> xCurrency Curiosity Scholarship, Beijing Normal-Hong Kong Baptist University</strong><br>
     🥈  Second Prize (Team) · 2025 
@@ -245,11 +245,15 @@ Guangzhou, China</dd>
 
 ---
 
+
 # 💻 Course Projects
-- **📕 "U-Dream" Study Abroad Information Query Platform**  
+- **📘 “U-Dream” — Study Abroad & Overseas University Information Exchange Platform** 
   *Selected for BNBU(UIC) CS–DS Poster Conference 2024*
-  - COMP3013 Database Management Systems, BNBU
-  - Designed DBMS-based query platform  
-  - Built simulation datasets & performed data analysis with Python
 
-
+- Course Project for COMP3013: Database Management Systems, BNBU
+- Core contributor responsible for multi-source data crawling and cleaning using Python
+- Developed a Django-based backend supporting multi-dimensional queries (e.g., QS rankings, regions)
+- Implemented data visualization modules and personalized university/program recommendation features
+- Assisted in MySQL database schema design, including ER modeling and normalization for complex entities (students, universities, offers)
+- Designed database triggers to enforce data integrity for key attributes such as GPA and language scores
+- Addressed information asymmetry in study-abroad services; recognized as an exemplary project in the CS department poster exhibition
