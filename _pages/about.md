@@ -42,16 +42,6 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="edu-row">
   <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="hkbu">
 
-  <div>
-    <strong>
-      <img class="flag-icon" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
-      Hong Kong Baptist University (HKBU)
-    </strong><br>
-    September 2022 – June 2026 (Expected) <br>
-    B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）
-  </div>
-</div>
-
 <div class="edu-row">
   <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="bnbu">
 
@@ -64,6 +54,18 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     B.Sc. (Hons) in Data Science (award by HKBU)
   </div>
 </div>
+
+  <div>
+    <strong>
+      <img class="flag-icon" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
+      Hong Kong Baptist University (HKBU)
+    </strong><br>
+    September 2022 – June 2026 (Expected) <br>
+    B.Sc. (Hons) in Data Science 數據科學理學士（榮譽）
+  </div>
+</div>
+
+
 
 
 
