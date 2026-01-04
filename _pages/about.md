@@ -115,6 +115,13 @@ Guangzhou, China</dd>
   margin-right: 15px;
 }
 </style>
+<div class="award-row">
+  <img src="/jk.github.io/images/x.png" alt="kaggle">
+  <div>
+    <strong> xCurrency Curiosity Scholarship, Beijing Normal-Hong Kong Baptist University</strong><br>
+    🥈  Second Prize (Team) · 2025 
+  </div>
+</div>
 
 <div class="award-row">
   <img src="/jk.github.io/images/und.png" alt="kaggle">
