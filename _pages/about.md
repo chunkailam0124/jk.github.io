@@ -176,48 +176,7 @@ Guangzhou, China</dd>
 
 <br><br><br>
 
----
 
-# 📄 Publications
-
-### **Conference**
-
-- Junkai Chen†, **Junkai Lin†** (2025).  
-  *MLLM Knows It Is Lying: Probing Internal Representations to Detect Hallucinations in MLLMs.*  
-  <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#d32f2f; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-A</span>
-  <span style="background:#2196f3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-B</span>  
-  Submitted to **IEEE ICME 2026**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ed.svg" width="20"> Bangkok, Thailand.
-
-- **Junkai Lin\***, Weitong Li†, Di Li† (2025).  
-  *Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring.*  
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
-  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **IEEE ICVRV 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg" width="20"> Bogotá, Colombia.
-
-- Xunfei Zhu\*†, Weitong Li†, **Junkai Lin** (2025).  
-  *PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale.*  
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Accepted</span>
-  <span style="background:#9c27b0; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CORE-B</span>
-  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CCF-C</span>  
-  **PRICAI 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ff.svg" width="20"> Wellington, New Zealand.
-
-
-- Di Li†, **Junkai Lin†**, Siqi Hou†, Yanyan Ji\* (2025).  
-  *Multifunctional Desktop Pet Robot Dog Based on Arduino & ESP32-S3.*  
-  <span style="background:#0d47a1; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Published</span>
-  <span style="background:#66bb6a; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">THU Conf. Index, A (Mechanical Engi.)</span>  
-  **ICIRA 2025**, <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg" width="20"> Okayama, Japan.
-
-
-### **Journal**
-
-- **Junkai Lin†**, Jiarui Cao†, Yujia Hu\*, A. M. Elsawah\* (2025).  
-  *From Distance to Gravitation: A New Perspective for Improving Classification and Clustering.*  
-  <span style="background:#ff9800; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Under Review</span>
-  <span style="background:#4caf50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">CAS 2nd (中科院二区)</span>
-  <span style="background:#3f51b5; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">JCR Q1</span>  
-  Submitted to <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg" width="20"> **Journal of KSU CIS**.
 
 
 ---
