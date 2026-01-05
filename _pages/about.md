@@ -40,6 +40,21 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 }
 </style>
 
+<!-- BNBU -->
+<div class="edu-row">
+  <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="BNBU">
+
+  <div>
+    <strong>
+      <img class="flag-icon"
+           src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg">
+      Beijing Normal – Hong Kong Baptist University (BNBU)
+    </strong><br>
+    September 2022 – June 2026 (Expected)<br>
+    B.Sc. (Hons) in Data Science (Awarded by HKBU)
+  </div>
+</div>
+
 <!-- HKBU -->
 <div class="edu-row">
   <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="HKBU">
@@ -55,20 +70,6 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
   </div>
 </div>
 
-<!-- BNBU -->
-<div class="edu-row">
-  <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="BNBU">
-
-  <div>
-    <strong>
-      <img class="flag-icon"
-           src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg">
-      Beijing Normal – Hong Kong Baptist University (BNBU)
-    </strong><br>
-    September 2022 – June 2026 (Expected)<br>
-    B.Sc. (Hons) in Data Science (Awarded by HKBU)
-  </div>
-</div>
 
   
 
