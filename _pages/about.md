@@ -66,10 +66,10 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
       Hong Kong Baptist University (HKBU)
     </strong><br>
     September 2022 – June 2026 (Expected)<br>
-    B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）
+    B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）<br>
     <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em>  
 From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling  
-(JCR Q1 Journal)
+(JCR-Q1 Journal)
   </div>
 </div>
 
@@ -188,18 +188,6 @@ Guangzhou, China</dd>
 
 
 <br><br><br>
-
-
-
-
----
-
-# 🔬 Research Experience
-
-### **Gravity & I/O Cluster-Inspired ML Algorithms and DoE** (FYP)  
-**Research Student (FYP)**, BNBU · *2025.04 – Present*  
-- Advisor: **Dr. A. M. Elsawah**  
-- Developed hybrid gravity-SVM & gravity Input-output cluster–supervised frameworks for statistical modeling, testing, and real-world data analysis, also design a intelligent algorithm apply on DoE with Factor scanning and design.
 
 
 
