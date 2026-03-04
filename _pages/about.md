@@ -67,6 +67,9 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     </strong><br>
     September 2022 – June 2026 (Expected)<br>
     B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）
+    <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em>  
+From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling  
+(JCR Q1 Journal)
   </div>
 </div>
 
