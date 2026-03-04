@@ -206,7 +206,7 @@ Guangzhou, China</dd>
 ---
 
 
-# 💻 Selected CS Project
+# 💻 Selected Project
 - **📘 “U-Dream” — Study Abroad & Overseas University Information Exchange Platform** 
   *Selected for BNBU(UIC) CS–DS Poster Conference 2024*
 
