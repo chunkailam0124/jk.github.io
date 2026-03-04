@@ -69,7 +69,6 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）<br>
     <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em>  
 From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling  
-(JCR-Q1 Journal)
   </div>
 </div>
 
