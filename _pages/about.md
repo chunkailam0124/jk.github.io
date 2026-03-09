@@ -12,6 +12,7 @@ redirect_from:
 I am **Junkai (Jackie) Lin**, currently an undergraduate student in **Data Science** at  
 **Beijing Normal – Hong Kong Baptist University (The Campus of Hong Kong Baptist University at Zhuhai China, 北師香港浸會大學)**.  
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
+I am a research intern at <a href="https://www.hkust-gz.edu.cn">HKUST (Guangzhou)</a>, supervised by <a href="https://biri.hkust-gz.edu.cn/2024/08/21/julie-qiaojin-lin/">Dr. Qiaojin Lin</a>.
 
 I work in both English and Chinese, with **native proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
 Mandarin and Teochew (A branch of <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg" width="20"> Hokkien / Taiwanese)**, **high proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg" width="20">
