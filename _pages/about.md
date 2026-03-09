@@ -99,16 +99,7 @@ Shatin, Hong Kong SAR</dd>
   <dd> Worked on enhancing diffusion-based HI-Diff for microscopy deblurring; resulting work is a part of the paper accepted to ICVRV 2025.</dd>
   <div style="clear: both; margin-bottom: 25px;"></div>
 
-  <!-- HKUST(GZ) -->
-  <dt>
-    <img src="/jk.github.io/images/hkustgz.png" width="90" height="90" alt="hkustgz" align="left" />
-  </dt>
-  <dt> Hong Kong University of Science and Technology (Guangzhou)</dt>
-  <dd> Research Intern · <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
-Guangzhou, China</dd>
-  <dd> August 2024 – September 2024</dd>
-  <dd> Advisor: Dr. Julie Qiaojin Lin; developed DL models for DNA electrical signal recognition & A-to-I RNA modification analysis.</dd>
-  <div style="clear: both; margin-bottom: 25px;"></div>
+ 
 
 </dl>
 
