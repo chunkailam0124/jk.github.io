@@ -26,33 +26,52 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 .edu-row {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 30px;
+  gap: 16px;
+  margin-bottom: 28px;
 }
 
 .edu-logo {
   width: 90px;
-  height: 90px;
-  margin-right: 15px;
+  height: auto;
+  max-height: 90px;
+  object-fit: contain;
+  flex-shrink: 0;
+  display: block;
 }
 
 .flag-icon {
   width: 20px;
+  height: 20px;
   vertical-align: middle;
+  margin-right: 6px;
+}
+
+.edu-content {
+  line-height: 1.6;
+}
+
+.edu-school {
+  font-weight: 700;
+}
+
+.edu-thesis {
+  margin-top: 6px;
 }
 </style>
 
-<!-- BNBU -->
+<!-- CUHK -->
 <div class="edu-row">
-  <img class="edu-logo" src="/jk.github.io/images/cuhk.jpg" alt="BNBU">
+  <img class="edu-logo" src="/jk.github.io/images/cuhk.jpg" alt="CUHK">
 
-  <div>
-    <strong>
+  <div class="edu-content">
+    <div class="edu-school">
       <img class="flag-icon"
-           src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
+           src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"
+           alt="Hong Kong flag">
       The Chinese University of Hong Kong (CUHK)
-    </strong><br>
-    Aug. 2026 – Sept. 2027 (Expected)<br>
-    M.Sc. in Mathematics
+    </div>
+    <div>Aug. 2026 – Sept. 2027 (Expected)</div>
+    <div>M.Sc. in Mathematics</div>
   </div>
 </div>
 
@@ -60,22 +79,21 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 <div class="edu-row">
   <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="HKBU">
 
-  <div>
-    <strong>
+  <div class="edu-content">
+    <div class="edu-school">
       <img class="flag-icon"
-           src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
+           src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"
+           alt="Hong Kong flag">
       Hong Kong Baptist University (HKBU)
-    </strong><br>
-    Sept. 2022 – Jun. 2026 (Expected)<br>
-    B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）<br>
-    <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em>  
-From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling  
+    </div>
+    <div>Sept. 2022 – Jun. 2026 (Expected)</div>
+    <div>B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）</div>
+    <div class="edu-thesis">
+      <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em><br>
+      From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling
+    </div>
   </div>
 </div>
-
-
-  
-
 
 
 
