@@ -61,7 +61,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <!-- CUHK -->
 <div class="edu-row">
-  <img class="edu-logo" src="/jk.github.io/images/cuhk.jpg" alt="CUHK">
+  <img class="edu-logo" src="/jk.github.io/images/cuhk.png" alt="CUHK">
 
   <div class="edu-content">
     <div class="edu-school">
