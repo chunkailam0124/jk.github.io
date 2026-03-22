@@ -68,7 +68,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
       <img class="flag-icon"
            src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"
            alt="Hong Kong flag">
-      The Chinese University of Hong Kong (CUHK)
+      The Chinese University of Hong Kong (香港中文大學)
     </div>
     <div>Aug. 2026 – Sept. 2027 (Expected)</div>
     <div>M.Sc. in Mathematics</div>
@@ -84,7 +84,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
       <img class="flag-icon"
            src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"
            alt="Hong Kong flag">
-      Hong Kong Baptist University (HKBU)
+      Hong Kong Baptist University (香港浸會大學)
     </div>
     <div>Sept. 2022 – Jun. 2026 (Expected)</div>
     <div>B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）</div>
