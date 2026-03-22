@@ -71,7 +71,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
       The Chinese University of Hong Kong (香港中文大學)
     </div>
     <div>Aug. 2026 – Sept. 2027 (Expected)</div>
-    <div>M.Sc. in Mathematics</div>
+    <div>M.Sc. in Mathematics（數學・理學硕士）</div>
   </div>
 </div>
 
