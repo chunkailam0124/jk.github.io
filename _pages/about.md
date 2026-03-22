@@ -43,16 +43,16 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <!-- BNBU -->
 <div class="edu-row">
-  <img class="edu-logo" src="/jk.github.io/images/hkbu.png" alt="BNBU">
+  <img class="edu-logo" src="/jk.github.io/images/cuhk.png" alt="BNBU">
 
   <div>
     <strong>
       <img class="flag-icon"
-           src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg">
-      Beijing Normal – Hong Kong Baptist University (BNBU)
+           src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
+      The Chinese University of Hong Kong (CUHK)
     </strong><br>
-    September 2022 – June 2026 (Expected)<br>
-    B.Sc. (Hons) in Data Science (Awarded by HKBU)
+    Aug. 2026 – Sept. 2027 (Expected)<br>
+    M.Sc. in Mathematics
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
            src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg">
       Hong Kong Baptist University (HKBU)
     </strong><br>
-    September 2022 – June 2026 (Expected)<br>
+    Sept. 2022 – Jun. 2026 (Expected)<br>
     B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）<br>
     <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em>  
 From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling  
