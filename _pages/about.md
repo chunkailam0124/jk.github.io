@@ -43,7 +43,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <!-- BNBU -->
 <div class="edu-row">
-  <img class="edu-logo" src="/jk.github.io/images/cuhk.png" alt="BNBU">
+  <img class="edu-logo" src="/jk.github.io/images/cuhk.jpg" alt="BNBU">
 
   <div>
     <strong>
