@@ -98,7 +98,6 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 
 ---
-<h2 id="news">News</h2>
 
 <h2 id="news">News</h2>
 
