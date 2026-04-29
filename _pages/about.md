@@ -103,7 +103,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <ul>
   <li>
-    [2026.04] Submit the Quantum Finance Project to a CCF-C Conference.
+    [2026.04] The FYP got the Outstanding Poster Award at the 14th Faculty of Science and Technology Poster Presentation BNBU 2026.
   </li>
   <li>
     [2026.03] The graduation thesis has been published at <i>Journal of King Saud University Computer and Information Sciences</i>.
