@@ -85,7 +85,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
            alt="Hong Kong flag">
       Hong Kong Baptist University (香港浸會大學)
     </div>
-    <div>Sept. 2022 – Jun. 2026 (Expected)</div>
+    <div>Sept. 2022 – Jun. 2026</div>
     <div>B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）</div>
     <div class="edu-thesis">
       <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em><br>
@@ -227,19 +227,3 @@ Shatin, Hong Kong SAR</dd>
 - **Kaggle – Game-Playing Strength of MCTS Variants (2024)** · 🥉Bronze Medal **(Top 10%)**
 - **CUMCM (2023)** · 🥉Provincial 3rd Prize
 {% endcomment %}
-
-
----
-
-
-# 💻 Selected Project
-- **📘 “U-Dream” — Study Abroad & Overseas University Information Exchange Platform** 
-  *Selected for BNBU(UIC) CS–DS Poster Conference 2024*
-
-- Course Project for COMP3013: Database Management Systems, BNBU
-- Core contributor responsible for multi-source data crawling and cleaning using Python
-- Developed a Django-based backend supporting multi-dimensional queries (e.g., QS rankings, regions)
-- Implemented data visualization modules and personalized university/program recommendation features
-- Assisted in MySQL database schema design, including ER modeling and normalization for complex entities (students, universities, offers)
-- Designed database triggers to enforce data integrity for key attributes such as GPA and language scores
-- Addressed information asymmetry in study-abroad services; recognized as an exemplary project in the CS department poster exhibition
