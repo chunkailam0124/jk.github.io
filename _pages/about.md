@@ -9,8 +9,7 @@ redirect_from:
 
 # About Me
 
-I am **Junkai (Jackie) Lin**, currently an postgraduate student in **Mathematics (Big Data Computation & Analytics)** at  
-**The Chinese University of Hong Kong**, priorly, I got the B.Sc. (Hos) Degree (First Class) from Hong Kong Baptist University.
+I am **Junkai (Jackie) Lin**, currently an postgraduate student in **Mathematics (Big Data Computation & Analytics)** at **The Chinese University of Hong Kong**, priorly, I got the B.Sc. (Hos) Degree (First Class) from Hong Kong Baptist University.
 My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
 I was a research intern at <a href="https://www.hkust-gz.edu.cn">HKUST (Guangzhou)</a>, supervised by <a href="https://biri.hkust-gz.edu.cn/2024/08/21/julie-qiaojin-lin/">Dr. Qiaojin Lin</a>.
 
