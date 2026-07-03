@@ -86,7 +86,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
       Hong Kong Baptist University (香港浸會大學)
     </div>
     <div>Sept. 2022 – Jun. 2026</div>
-    <div>B.Sc. (Hons) in Data Science（數據科學理學士・榮譽）</div>
+    <div>B.Sc. (Hons) in Data Science (First Class) </div>
     <div class="edu-thesis">
       <em>Graduation Thesis (Advisor: Dr. A. M. Elsawah):</em><br>
       From Distance to Gravitation: A New Perspective for Improving Classification, Clustering, and Sampling
