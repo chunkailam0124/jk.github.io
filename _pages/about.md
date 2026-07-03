@@ -102,6 +102,9 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <ul>
   <li>
+    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by SMC 2026.
+  </li>
+  <li>
     [2026.04] The FYP got the Outstanding Poster Award at the 14th Faculty of Science and Technology Poster Presentation BNBU 2026.
   </li>
   <li>
@@ -111,7 +114,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     [2025.12] The defense of the undergraduate graduation thesis (DS4004 Final Year Project I, FYP) has concluded, received an A grade, and received the "xCurrency Curiosity" Scholarship Second Prize Award of BNBU during this Academic Year.
   </li>
   <li>
-    [2025.09] My work on diffusion-based microscopy deblurring, developed during my research internship at ASTRI Hong Kong, was accepted to <i>ICVRV 2025</i>.
+    [2025.09] My work on diffusion-based microscopy deblurring, developed during my research internship at ASTRI Hong Kong, was accepted by <i>ICVRV 2025</i>.
   </li>
 </ul>
 
