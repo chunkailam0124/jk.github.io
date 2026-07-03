@@ -102,7 +102,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <ul>
   <li>
-    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by SMC 2026.
+    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by <i>SMC 2026</i>.
   </li>
   <li>
     [2026.04] The FYP got the Outstanding Poster Award at the 14th Faculty of Science and Technology Poster Presentation BNBU 2026.
