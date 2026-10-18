@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Junkai (Jackie) Lin**, currently an postgraduate student in **Mathematics (Big Data Computation & Analytics)** at **The Chinese University of Hong Kong**, priorly, I got the **B.Sc. (Hons) Degree (First Class)** from **Hong Kong Baptist University**.
 
-My research interests lie in Machine Learning, Optimization, Multimodal & Large Language Models, Medical Imaging, Geo-Informatics, and Scientific Machine Learning.
+My research focuses on **multimodal large language models (MLLMs), multimodal agents, and trustworthy machine learning**. I am particularly interested in understanding how multimodal models represent, retain, and reconcile knowledge, and in developing methods for reliable reasoning and interaction in complex environments.
 I was a research intern at <a href="https://www.hkust-gz.edu.cn">HKUST (Guangzhou)</a>, supervised by <a href="https://biri.hkust-gz.edu.cn/2024/08/21/julie-qiaojin-lin/">Dr. Qiaojin Lin</a>.
 
 I work in both English and Chinese, with **native proficiency in <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="20">
@@ -103,10 +103,10 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <ul>
   <li>
-    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by <i>SMC 2026</i>.
+    [2026.09] Our work, G-UNet++ and Chaotic-GUNet++, was accepted by <i>APBC 2026</i>, Hsinchu, Taiwan.
   </li>
   <li>
-    [2026.04] The FYP got the Outstanding Poster Award at the 14th Faculty of Science and Technology Poster Presentation BNBU 2026.
+    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by <i>SMC 2026</i>, Bellevue, WA, USA.
   </li>
   <li>
     [2026.03] The graduation thesis (FYP) has been published at <i>Journal of King Saud University Computer and Information Sciences</i>.
