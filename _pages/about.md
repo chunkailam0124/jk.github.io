@@ -115,7 +115,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     [2025.12] The defense of the undergraduate graduation thesis (DS4004 Final Year Project I, FYP) has concluded, received an A grade, and received the "xCurrency Curiosity" Scholarship Second Prize Award of BNBU during this Academic Year.
   </li>
   <li>
-    [2025.09] My work on diffusion-based microscopy deblurring, developed during my research internship at ASTRI Hong Kong, was accepted by <i>ICVRV 2025</i>.
+    [2025.09] My work on diffusion-based microscopy deblurring, developed during my research internship at ASTRI Hong Kong, was accepted by <i>ICVRV 2025</i>, Bogota, Columbia.
   </li>
 </ul>
 
