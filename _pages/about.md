@@ -170,7 +170,7 @@ Shatin, Hong Kong SAR</dd>
   <img src="/jk.github.io/images/und.png" alt="kaggle">
   <div>
     <strong> Kaggle – NeurIPS Open Polymer Prediction (Hosted by Uni. Notre Dame)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 5.2% · 2025 
+    🥉 Bronze Medal 🌏 (International) · Top 5.2% · 2025 
   </div>
 </div>
 
@@ -178,15 +178,7 @@ Shatin, Hong Kong SAR</dd>
   <img src="/jk.github.io/images/byu.png" alt="kaggle">
   <div>
     <strong> Kaggle – Locating Bacterial Flagellar Motors (Hosted by BYU)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 8% · 2025
-  </div>
-</div>
-
-<div class="award-row">
-  <img src="/jk.github.io/images/yg.png" alt="ygcup">
-  <div>
-    <strong> Yuanguang Cup – GBA Computer Design Competition of China</strong><br>
-    🥉 Provincial 3rd Prize · 2025 
+    🥉 Bronze Medal 🌏 (International) · Top 8% · 2025
   </div>
 </div>
 
@@ -194,25 +186,10 @@ Shatin, Hong Kong SAR</dd>
   <img src="/jk.github.io/images/ma.png" alt="kaggle">
   <div>
     <strong> Kaggle – Game-Playing Strength of MCTS Variants (Hosted by Uni. Maastricht)</strong><br>
-    🥉 Bronze Medal 🌏(International) · Top 10% · 2024 
+    🥉 Bronze Medal 🌏 (International) · Top 10% · 2024 
   </div>
 </div>
 
-<div class="award-row">
-  <img src="/jk.github.io/images/cumcm.png" alt="cumcm">
-  <div>
-    <strong> CUMCM (China UG Mathematical Contest in Modeling)</strong><br>
-    🥉 Provincial 3rd Prize · 2023
-  </div>
-</div>
-
-<div class="award-row">
-  <img src="/jk.github.io/images/mac.png" alt="cumcm">
-  <div>
-    <strong> International UG Mathematical Contest in Modeling (Macao)</strong><br>
-    🥇 Finalist Prize (Regional) · 2023 
-  </div>
-</div>
 
 
 
