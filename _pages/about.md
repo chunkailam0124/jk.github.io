@@ -103,10 +103,10 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
 
 <ul>
   <li>
-    [2026.09] Our work, G-UNet++ and Chaotic-GUNet++, was accepted by <i>APBC 2026</i>, Hsinchu, Taiwan.
+    [2026.09] Our work, "G-UNet++ and Chaotic-GUNet++", was accepted by <i>APBC 2026</i>, Hsinchu, Taiwan.
   </li>
   <li>
-    [2026.06] I finally got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by <i>SMC 2026</i>, Bellevue, WA, USA.
+    [2026.06] I got the First Class Honors Bachelor's degree from Hong Kong Baptist University. Our work, Quantum Finance with Time Series Analysis, was accepted by <i>SMC 2026</i>, Bellevue, WA, USA.
   </li>
   <li>
     [2026.03] The graduation thesis (FYP) has been published at <i>Journal of King Saud University Computer and Information Sciences</i>.
@@ -115,7 +115,7 @@ Cantonese**, and **advanced <img src="https://twemoji.maxcdn.com/v/latest/svg/1f
     [2025.12] The defense of the undergraduate graduation thesis (DS4004 Final Year Project I, FYP) has concluded, received an A grade, and received the "xCurrency Curiosity" Scholarship Second Prize Award of BNBU during this Academic Year.
   </li>
   <li>
-    [2025.09] My work on diffusion-based microscopy deblurring, developed during my research internship at ASTRI Hong Kong, was accepted by <i>ICVRV 2025</i>, Bogota, Columbia.
+    [2025.09] My work on diffusion-based microscopy deblurring, was accepted by <i>ICVRV 2025</i>, Bogota, Columbia.
   </li>
 </ul>
 
